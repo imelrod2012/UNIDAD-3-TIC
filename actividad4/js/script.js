@@ -1,4 +1,4 @@
-function hola() {
+function pedirDatos() {
     let a, b, c, d;
     a= parseInt(prompt("Inserta un número:"));
     b= parseInt(prompt("Inserta otro número:"));
